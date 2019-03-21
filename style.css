@@ -1,0 +1,71 @@
+body{
+  background-image: url("logs.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+
+h1{
+  font-family: futura-pt;
+  color: #ffffff;
+  text-align: center;
+  background-color: rgba(0, 0, 0,1);
+  font-size: 50px;
+  position: fixed;
+  top: 0;
+}
+
+header{
+  display: in-line;
+  
+}
+
+h2{
+  font-size: 30px;
+  font-family: futura-pt;
+  text-align: center;
+}
+
+p{
+  font-size: 20px;
+  font-family:  futura-pt;
+  text-align: left;
+}
+
+h3{
+  font-size: 20px;
+  font-family:  futura-pt;
+  text-align: left;
+}
+
+div{
+  background-color: rgba(192,192,192,0.9);
+}
+
+figure{
+  
+  text-align: center;
+  font-style: italic;
+  text-indent: 0;
+}
+
+#coffee-table{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
+}
+
+footer{
+  border-top: 1px solid #57b1dc;
+  text-align: center;
+  padding-top: 1em;
+}
+footer img{
+  width: 40px;
+  height: 40px;
+  margin-left: .5em;
+  margin_right: .5em;
+}
